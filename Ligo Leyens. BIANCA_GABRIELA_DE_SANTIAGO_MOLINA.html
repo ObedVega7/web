@@ -1,0 +1,156 @@
+<html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Página sobre League of Legends, sus campeones, modos de juego y más.">
+    <title>League of Legends - Explora el Juego</title>
+    <style>
+        body {
+            font-family: 'Verdana', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #fff;
+            background-color: #121212;
+            line-height: 1.6;
+        }
+        header {
+            background: url('https://cdn.leagueoflegends.com/lol/images/four-zero/splash-bundle.jpg') no-repeat center/cover;
+            color: #fff;
+            height: 100vh;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        header h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        header p {
+            font-size: 1.2em;
+        }
+        nav {
+            background: #1f1f1f;
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #00bcd4;
+            text-decoration: none;
+            margin: 0 15px;
+            padding: 10px 15px;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        nav a:hover {
+            background: #00bcd4;
+            color: #121212;
+        }
+        section {
+            padding: 20px;
+        }
+        section h2 {
+            color: #00bcd4;
+            border-bottom: 2px solid #00bcd4;
+            display: inline-block;
+            margin-bottom: 15px;
+        }
+        .intro, .modes {
+            background: #1f1f1f;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .champions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: space-around;
+        }
+        .champion {
+            flex: 1 1 calc(33% - 40px);
+            max-width: calc(33% - 40px);
+            background: #292929;
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .champion img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .champion h3 {
+            margin: 10px 0;
+            color: #00bcd4;
+        }
+        footer {
+            background: #1f1f1f;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>League of Legends</h1>
+    <p>Sumérgete en el universo de uno de los juegos más populares del mundo.</p>
+</header>
+
+<nav>
+    <a href="#about">Sobre el juego</a>
+    <a href="#modes">Modos de Juego</a>
+    <a href="#champions">Campeones</a>
+    <a href="#footer">Contacto</a>
+</nav>
+
+<section id="about">
+    <div class="intro">
+        <h2>¿Qué es League of Legends?</h2>
+        <p>League of Legends es un juego competitivo de estrategia en tiempo real desarrollado por Riot Games. En este juego multijugador, equipos de 5 personas trabajan juntos para destruir la base enemiga mientras defienden la suya. Con más de 160 campeones y una rica historia, LoL sigue siendo uno de los eSports más importantes.</p>
+    </div>
+</section>
+
+<section id="modes">
+    <div class="modes">
+        <h2>Modos de Juego</h2>
+        <ul>
+            <li><strong>Grieta del Invocador:</strong> El modo más jugado, con partidas estratégicas de 5v5.</li>
+            <li><strong>ARAM:</strong> Un carril único donde la acción es rápida e intensa.</li>
+            <li><strong>Modos Temporales:</strong> Modos especiales como URF o Nexus Blitz.</li>
+        </ul>
+    </div>
+</section>
+
+<section id="champions">
+    <h2>Campeones Destacados</h2>
+    <div class="champions">
+        <div class="champion">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg" alt="Jinx">
+            <h3>Jinx</h3>
+            <p>Una tiradora caótica y amante de las explosiones.</p>
+        </div>
+        <div class="champion">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg" alt="Ekko">
+            <h3>Ekko</h3>
+            <p>Un joven prodigio que manipula el tiempo a su favor.</p>
+        </div>
+        <div class="champion">
+            <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg" alt="Katarina">
+            <h3>Katarina</h3>
+            <p>Una asesina letal con movimientos rápidos y precisos.</p>
+        </div>
+    </div>
+</section>
+
+<footer id="footer">
+    <p>Página no oficial. Forruken Graphics <a href="https://www.leagueoflegends.com" target="_blank" style="color: #00bcd4;">Página oficial aquí</a></p>
+</footer>
+
+</body>
+</html>

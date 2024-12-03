@@ -1,0 +1,171 @@
+}<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Necrones - Warhammer 40k</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #1c1c1c;
+            color: #f5f5f5;
+        }
+        header {
+            background: #333;
+            color: #f5f5f5;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+        nav a {
+            color: #f5f5f5;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        h1, h2 {
+            color: #ffcc00;
+        }
+        .content {
+            padding: 20px;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+            max-width: 300px;
+            margin: 10px;
+            border: 3px solid #ffcc00;
+        }
+        footer {
+            background: #333;
+            color: #f5f5f5;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+<audio controls loop>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="Warhammer40K Necrones Dominio Metálico K4TMe [SunoAI].mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+    <header>
+        <div class="container">
+            <h1>Necrones - Warhammer 40k</h1>
+            <nav>
+               
+                   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página con Enlace</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bienvenido a la Página de Enlaces</h1>
+    <p>Haz clic en el siguiente enlace para ir a la<a href="pag2.html">pagina 2</a> 
+<a href="pag3.html">pagina 3</a> 
+<a href="videos.html">ver el video.</a> 
+<a href="pag44.html">pagina 4.</a> 
+</p>
+
+</body>
+</html>
+                
+            </nav>
+        </div>
+    </header>
+
+    <div class="container content">
+        <section id="intro">
+            <h2>Introducción a los Necrones</h2>
+            <p>Los Necrones son una de las razas más antiguas del universo de Warhammer 40k. Son una raza de seres no muertos, inmortales y de apariencia metálica. Originalmente, eran una especie biológica conocida como los Necrontyr, pero se transformaron en los Necrones tras un pacto con los C'tan, los dioses estelares.</p>
+            <p>Estos seres son conocidos por su tecnología avanzada y su capacidad para reconstituirse después de ser destruidos. Su objetivo principal es recuperar su antiguo imperio y dominar la galaxia.</p>
+        </section>
+
+        <section id="gallery">
+            <h2>Galería</h2>
+            <div class="gallery">
+                <img src="1.jpg" alt="Necron 1">
+                <img src="2.jpg" alt="Necron 2">
+                <img src="3.jpg" alt="Necron 3">
+            </div>
+          
+
+    <footer>
+        <p>&copy; 2024 Necrones 40k. Toda la info esta echa con fines educativos (jordy).</p>
+    </footer>
+</body>
+</html>
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Necrones de Warhammer 40000</h1>
+    </header>
+    
+
+    </style>
+</head>
+<body>
+<center>
+    <div class="ad-container">
+        <img src="cocaa.jpg" alt="Imagen del Anuncio">
+        <h1>¡Gran Oferta!</h1>
+        <p>Compra uno y lleva el segundo a mitad de precio. ¡Solo por tiempo limitado!</p>
+        <a href=" https://www.pepsico.com.mx/">Compra Ahora</a>
+    </div>
+</center>
+</body>
+</html>
+
+    <main>
+        <div class="content">
+<center>
+            <h2>Sobre manesking</h2>
+</center>
+            <p>Esta es una página web va a tratar sobre la historia de la banda famosa Manesking</p>
+           
+        </div>
+    </main>
+<div class="content">
+            
+
+<div class="gallery">
+                <img src="rey.jpg" alt="Necron 1">
+                <img src="rey2.jpg" alt="Necron 2">
+                
+            </div>
+
+
+.</p>
+            </div>
+    </main>
